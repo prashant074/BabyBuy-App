@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="totalpurchasedprice" type="id" />
+    <item name="totaltobuyprice" type="id" />
+    <item name="btn" type="id" />
+</resources>

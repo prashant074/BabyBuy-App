@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_alert_content.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_alert_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_top_background2.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_product_edittext_design.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\product_edittext_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_editor.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable-v24_ic_map.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable-v24\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_design_product_recyclerview.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\design_product_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_editxt.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\editxt.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_layout_toolbar.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_r_drp.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\r_drp.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_logo_logo.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_logo_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_fragment_product.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_baseline_perm_identity_24.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\baseline_perm_identity_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_babybuy_chart.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\babybuy_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_babybuy_logoand_slogan.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\babybuy_logoand_slogan.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_circle_border.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ip_email2.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ip_email2.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_drp.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_drp.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_setting.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_babybuy_register_background.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\babybuy_register_background.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_product_cart.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_product_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_twotone_email_24.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_twotone_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_product_imageview_design.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\product_imageview_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_show_chart.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_show_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_purchase.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_purchase.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_add_product.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_alertdialoge_category.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\alertdialoge_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_transparent_logo_of_baby_buy.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\transparent_logo_of_baby_buy.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_gallery.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_toolbar_icon.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_toolbar_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_alertdialogeforall.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_alertdialogeforall.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_product.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_circle.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_smsgrad.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\smsgrad.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_shoppinglist.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_shoppinglist.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_layout_header.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\layout_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_upload_a_photo.jpg.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\upload_a_photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_headerlayoutimage.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_headerlayoutimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_product.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_cancel.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_backimg.jpg.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\backimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_btn_rows.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\btn_rows.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\font_allan.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\font\\allan.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.babybuy.app-merged_res-37:/layout_activity_register.xml.flat",
+        "source": "com.example.babybuy.app-main-39:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\font_butcherman.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\font\\butcherman.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_fragment_user.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_fragment_sizechart.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\fragment_sizechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_babybuy_lunching_logo.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\babybuy_lunching_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_input_bg.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_logo_background.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-debug-38:\\drawable\\ic_logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_top_background1.png.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_design_category_recyclerview.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\design_category_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_sms.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\font_abril_fatface.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\font\\abril_fatface.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_table_format.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\table_format.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\font_alatsi.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\font\\alatsi.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_babybuy_sendsms_background.jpg.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\babybuy_sendsms_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\font_akronim.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\font\\akronim.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_fragment_sms.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\fragment_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\layout_activity_update_product.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\layout\\activity_update_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-merged_res-37:\\drawable_ic_categorycircle.xml.flat",
+        "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\daemon\\7.4\\com.example.babybuy.app-main-39:\\drawable\\ic_categorycircle.xml"
+    }
+]
