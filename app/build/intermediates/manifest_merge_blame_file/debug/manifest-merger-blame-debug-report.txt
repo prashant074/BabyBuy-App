@@ -6,308 +6,321 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml
+8-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml
+9-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml
 10
-11    <uses-permission android:name="android.permission.SEND_SMS" />
-11-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:5:22-64
-12    <uses-permission android:name="android.permission.CAMERA" />
-12-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:6:5-65
-12-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:6:22-62
-13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:7:5-80
-13-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:7:22-77
-14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-14-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:8:5-81
-14-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:8:22-78
-15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:9:5-67
-15-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:9:22-64
-16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:10:5-81
-16-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:10:22-78
-17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-17-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:11:5-79
-17-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:11:22-76
-18
-19    <!-- Include required permissions for Google Maps API to run. -->
-20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
-20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
-21
-22    <uses-feature
-22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
-23        android:glEsVersion="0x00020000"
-23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
-24        android:required="true" />
-24-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+11    <uses-feature
+11-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:5:5-7:36
+12        android:name="android.hardware.telephony"
+12-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:6:9-50
+13        android:required="false" />
+13-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:7:9-33
+14    <uses-feature
+14-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:8:5-10:36
+15        android:name="android.hardware.camera"
+15-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:9:9-47
+16        android:required="false" />
+16-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:10:9-33
+17
+18    <uses-permission android:name="android.permission.SEND_SMS" />
+18-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:12:5-67
+18-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:13:5-65
+19-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:13:22-62
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:14:5-80
+20-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:14:22-77
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:15:5-81
+21-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:15:22-78
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:16:5-67
+22-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:16:22-64
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:17:5-81
+23-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:17:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:18:5-79
+24-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:18:22-76
 25
-26    <queries>
-26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
-27
-28        <!-- Needs to be explicitly declared on Android R+ -->
-29        <package android:name="com.google.android.apps.maps" />
-29-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
-29-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
-30    </queries>
-31
-32    <application
-32-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:13:5-98:19
-33        android:allowBackup="true"
-33-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:14:9-35
-34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-34-->[androidx.core:core:1.8.0] C:\Users\A S U S\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-35        android:debuggable="true"
-36        android:extractNativeLibs="false"
-37        android:icon="@mipmap/ic_launcher"
-37-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:15:9-43
-38        android:label="@string/app_name"
-38-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:16:9-41
-39        android:roundIcon="@mipmap/ic_launcher_round"
-39-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:17:9-54
-40        android:supportsRtl="true"
-40-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:18:9-35
-41        android:testOnly="true"
-42        android:theme="@style/Theme.Babybuy" >
-42-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:19:9-45
-43        <activity
-43-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:20:9-26:20
-44            android:name="com.example.babybuy.Activity.MainAct"
-44-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:21:13-45
-45            android:exported="false" >
-45-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:22:13-37
-46            <meta-data
-46-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
-47                android:name="android.app.lib_name"
-47-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
-48                android:value="" />
-48-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
-49        </activity>
+26    <!-- Include required permissions for Google Maps API to run. -->
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+28
+29    <uses-feature
+29-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+30        android:glEsVersion="0x00020000"
+30-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+31        android:required="true" />
+31-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+32
+33    <queries>
+33-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+34
+35        <!-- Needs to be explicitly declared on Android R+ -->
+36        <package android:name="com.google.android.apps.maps" />
+36-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+36-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+37    </queries>
+38
+39    <application
+39-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:20:5-105:19
+40        android:allowBackup="true"
+40-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:21:9-35
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.8.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+42        android:debuggable="true"
+43        android:extractNativeLibs="false"
+44        android:icon="@mipmap/ic_launcher"
+44-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:22:9-43
+45        android:label="@string/app_name"
+45-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:23:9-41
+46        android:roundIcon="@mipmap/ic_launcher_round"
+46-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:24:9-54
+47        android:supportsRtl="true"
+47-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:25:9-35
+48        android:testOnly="true"
+49        android:theme="@style/Theme.Babybuy" >
+49-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:26:9-45
 50        <activity
-50-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:27:9-33:20
-51            android:name="com.example.babybuy.Activity.UpdateProdAct"
-51-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:28:13-51
+50-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:27:9-33:20
+51            android:name="com.example.babybuy.Activity.MainAct"
+51-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:28:13-45
 52            android:exported="false" >
-52-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:29:13-37
+52-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:29:13-37
 53            <meta-data
-53-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
+53-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
 54                android:name="android.app.lib_name"
-54-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
+54-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
 55                android:value="" />
-55-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
+55-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
 56        </activity>
 57        <activity
-57-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:34:9-40:20
-58            android:name="com.example.babybuy.Activity.SmsAct"
-58-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:35:13-44
+57-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:34:9-40:20
+58            android:name="com.example.babybuy.Activity.UpdateProdAct"
+58-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:35:13-51
 59            android:exported="false" >
-59-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:36:13-37
+59-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:36:13-37
 60            <meta-data
-60-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
+60-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
 61                android:name="android.app.lib_name"
-61-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
+61-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
 62                android:value="" />
-62-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
+62-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
 63        </activity>
 64        <activity
-64-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:41:9-47:20
-65            android:name="com.example.babybuy.Activity.MapAct"
-65-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:42:13-44
+64-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:41:9-47:20
+65            android:name="com.example.babybuy.Activity.SmsAct"
+65-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:42:13-44
 66            android:exported="false" >
-66-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:43:13-37
+66-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:43:13-37
 67            <meta-data
-67-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
+67-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
 68                android:name="android.app.lib_name"
-68-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
+68-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
 69                android:value="" />
-69-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
+69-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
 70        </activity>
-71
-72        <meta-data
-72-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:49:9-51:71
-73            android:name="com.google.android.geo.API_KEY"
-73-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:50:13-58
-74            android:value="AIzaSyB8Zp_xB5VjC-sgVqsPeLxOyxRnfvqCasE" />
-74-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:51:13-68
-75
-76        <activity
-76-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:53:9-59:20
-77            android:name="com.example.babybuy.Activity.HomeAct"
-77-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:54:13-45
-78            android:exported="false" >
-78-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:55:13-37
-79            <meta-data
-79-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
-80                android:name="android.app.lib_name"
-80-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
-81                android:value="" />
-81-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
-82        </activity>
+71        <activity
+71-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:48:9-54:20
+72            android:name="com.example.babybuy.Activity.MapAct"
+72-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:49:13-44
+73            android:exported="false" >
+73-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:50:13-37
+74            <meta-data
+74-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
+75                android:name="android.app.lib_name"
+75-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
+76                android:value="" />
+76-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
+77        </activity>
+78
+79        <meta-data
+79-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:56:9-58:71
+80            android:name="com.google.android.geo.API_KEY"
+80-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:57:13-58
+81            android:value="AIzaSyB8Zp_xB5VjC-sgVqsPeLxOyxRnfvqCasE" />
+81-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:58:13-68
+82
 83        <activity
-83-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:60:9-66:20
-84            android:name="com.example.babybuy.Activity.AddProdAct"
-84-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:61:13-48
+83-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:60:9-66:20
+84            android:name="com.example.babybuy.Activity.HomeAct"
+84-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:61:13-45
 85            android:exported="false" >
-85-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:62:13-37
+85-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:62:13-37
 86            <meta-data
-86-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
+86-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
 87                android:name="android.app.lib_name"
-87-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
+87-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
 88                android:value="" />
-88-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
+88-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
 89        </activity>
 90        <activity
-90-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:67:9-73:20
-91            android:name="com.example.babybuy.Activity.RegisterAct"
-91-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:68:13-49
+90-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:67:9-73:20
+91            android:name="com.example.babybuy.Activity.AddProdAct"
+91-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:68:13-48
 92            android:exported="false" >
-92-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:69:13-37
+92-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:69:13-37
 93            <meta-data
-93-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
+93-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
 94                android:name="android.app.lib_name"
-94-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
+94-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
 95                android:value="" />
-95-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
+95-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
 96        </activity>
 97        <activity
-97-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:74:9-80:20
-98            android:name="com.example.babybuy.Activity.ProdListAct"
-98-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:75:13-49
+97-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:74:9-80:20
+98            android:name="com.example.babybuy.Activity.RegisterAct"
+98-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:75:13-49
 99            android:exported="false" >
-99-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:76:13-37
+99-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:76:13-37
 100            <meta-data
-100-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
+100-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
 101                android:name="android.app.lib_name"
-101-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
+101-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
 102                android:value="" />
-102-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
+102-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
 103        </activity>
 104        <activity
-104-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:81:9-93:20
-105            android:name="com.example.babybuy.Activity.LoginAct"
-105-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:82:13-46
-106            android:exported="true" >
-106-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:83:13-36
-107            <intent-filter>
-107-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:84:13-88:29
-108                <action android:name="android.intent.action.MAIN" />
-108-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:85:17-69
-108-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:85:25-66
-109
-110                <category android:name="android.intent.category.LAUNCHER" />
-110-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:87:17-77
-110-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:87:27-74
-111            </intent-filter>
-112
-113            <meta-data
-113-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:23:13-25:36
-114                android:name="android.app.lib_name"
-114-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:24:17-52
-115                android:value="" />
-115-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:25:17-33
-116        </activity>
-117
-118        <meta-data
-118-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:95:9-97:57
-119            android:name="preloaded_fonts"
-119-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:96:13-43
-120            android:resource="@array/preloaded_fonts" />
-120-->C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\AndroidManifest.xml:97:13-54
-121
-122        <activity
-122-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\.gradle\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
-123            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
-123-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\.gradle\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:13:13-86
-124            android:exported="false"
-124-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\.gradle\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:14:13-37
-125            android:label=""
-125-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\.gradle\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:15:13-29
-126            android:theme="@style/EasyPermissions.Transparent" />
-126-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\.gradle\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:16:13-63
-127        <activity
-127-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:17:9-19:62
-128            android:name="droidninja.filepicker.FilePickerActivity"
-128-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:18:13-68
-129            android:configChanges="orientation|screenSize" />
-129-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:19:13-59
-130        <activity
-130-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:20:9-22:62
-131            android:name="droidninja.filepicker.MediaDetailsActivity"
-131-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:21:13-70
-132            android:configChanges="orientation|screenSize" />
-132-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:22:13-59
-133
-134        <provider
-134-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:24:9-32:20
-135            android:name="droidninja.filepicker.utils.FilePickerProvider"
-135-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:25:13-74
-136            android:authorities="com.example.babybuy.droidninja.filepicker.provider"
-136-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:26:13-82
-137            android:exported="false"
-137-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:27:13-37
-138            android:grantUriPermissions="true" >
-138-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:28:13-47
-139            <meta-data
-139-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:29:13-31:58
-140                android:name="android.support.FILE_PROVIDER_PATHS"
-140-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:30:17-67
-141                android:resource="@xml/provider_paths" />
-141-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\.gradle\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:31:17-55
-142        </provider> <!-- Needs to be explicitly declared on P+ -->
-143        <uses-library
-143-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
-144            android:name="org.apache.http.legacy"
-144-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
-145            android:required="false" />
-145-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
-146
-147        <activity
-147-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
-148            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-148-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
-149            android:exported="false"
-149-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
-150            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-150-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
-151
-152        <meta-data
-152-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\2f90b28e809670a9242a4d20713bbca1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-153            android:name="com.google.android.gms.version"
-153-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\2f90b28e809670a9242a4d20713bbca1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-154            android:value="@integer/google_play_services_version" />
-154-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\A S U S\.gradle\caches\transforms-3\2f90b28e809670a9242a4d20713bbca1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-155
-156        <provider
-156-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-157            android:name="androidx.startup.InitializationProvider"
-157-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-158            android:authorities="com.example.babybuy.androidx-startup"
-158-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-159            android:exported="false" >
-159-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-160            <meta-data
-160-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-161                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-161-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-162                android:value="androidx.startup" />
-162-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-163            <meta-data
-163-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\A S U S\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-164                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-164-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\A S U S\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-165                android:value="androidx.startup" />
-165-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\A S U S\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-166        </provider>
-167        <provider
-167-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\.gradle\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-168            android:name="com.squareup.picasso.PicassoProvider"
-168-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\.gradle\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-169            android:authorities="com.example.babybuy.com.squareup.picasso"
-169-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\.gradle\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-170            android:exported="false" />
-170-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\.gradle\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-171    </application>
-172
-173</manifest>
+104-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:81:9-87:20
+105            android:name="com.example.babybuy.Activity.ProdListAct"
+105-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:82:13-49
+106            android:exported="false" >
+106-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:83:13-37
+107            <meta-data
+107-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
+108                android:name="android.app.lib_name"
+108-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
+109                android:value="" />
+109-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
+110        </activity>
+111        <activity
+111-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:88:9-100:20
+112            android:name="com.example.babybuy.Activity.LoginAct"
+112-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:89:13-46
+113            android:exported="true" >
+113-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:90:13-36
+114            <intent-filter>
+114-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:91:13-95:29
+115                <action android:name="android.intent.action.MAIN" />
+115-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:92:17-69
+115-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:92:25-66
+116
+117                <category android:name="android.intent.category.LAUNCHER" />
+117-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:94:17-77
+117-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:94:27-74
+118            </intent-filter>
+119
+120            <meta-data
+120-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:30:13-32:36
+121                android:name="android.app.lib_name"
+121-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:31:17-52
+122                android:value="" />
+122-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:32:17-33
+123        </activity>
+124
+125        <meta-data
+125-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:102:9-104:57
+126            android:name="preloaded_fonts"
+126-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:103:13-43
+127            android:resource="@array/preloaded_fonts" />
+127-->C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\AndroidManifest.xml:104:13-54
+128
+129        <activity
+129-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
+130            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+130-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:13:13-86
+131            android:exported="false"
+131-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:14:13-37
+132            android:label=""
+132-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:15:13-29
+133            android:theme="@style/EasyPermissions.Transparent" />
+133-->[pub.devrel:easypermissions:3.0.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\bf3e53dc57806d1d4d29240d19f62a73\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:16:13-63
+134        <activity
+134-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:17:9-19:62
+135            android:name="droidninja.filepicker.FilePickerActivity"
+135-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:18:13-68
+136            android:configChanges="orientation|screenSize" />
+136-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:19:13-59
+137        <activity
+137-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:20:9-22:62
+138            android:name="droidninja.filepicker.MediaDetailsActivity"
+138-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:21:13-70
+139            android:configChanges="orientation|screenSize" />
+139-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:22:13-59
+140
+141        <provider
+141-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:24:9-32:20
+142            android:name="droidninja.filepicker.utils.FilePickerProvider"
+142-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:25:13-74
+143            android:authorities="com.example.babybuy.droidninja.filepicker.provider"
+143-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:26:13-82
+144            android:exported="false"
+144-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:27:13-37
+145            android:grantUriPermissions="true" >
+145-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:28:13-47
+146            <meta-data
+146-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:29:13-31:58
+147                android:name="android.support.FILE_PROVIDER_PATHS"
+147-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:30:17-67
+148                android:resource="@xml/provider_paths" />
+148-->[com.droidninja:filepicker:2.2.5] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\6399666df63bb8aff7a750bb298130c3\transformed\jetified-filepicker-2.2.5\AndroidManifest.xml:31:17-55
+149        </provider> <!-- Needs to be explicitly declared on P+ -->
+150        <uses-library
+150-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+151            android:name="org.apache.http.legacy"
+151-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+152            android:required="false" />
+152-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\7ec9bea03d2fffc670cdb9e0a0beb914\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+153
+154        <activity
+154-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+155            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+155-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+156            android:exported="false"
+156-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+157            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+157-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+158
+159        <meta-data
+159-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\2f90b28e809670a9242a4d20713bbca1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+160            android:name="com.google.android.gms.version"
+160-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\2f90b28e809670a9242a4d20713bbca1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+161            android:value="@integer/google_play_services_version" />
+161-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\2f90b28e809670a9242a4d20713bbca1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+162
+163        <provider
+163-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+164            android:name="androidx.startup.InitializationProvider"
+164-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+165            android:authorities="com.example.babybuy.androidx-startup"
+165-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+166            android:exported="false" >
+166-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+167            <meta-data
+167-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+168                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+168-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+169                android:value="androidx.startup" />
+169-->[androidx.emoji2:emoji2:1.2.0] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+170            <meta-data
+170-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+171                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+171-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+172                android:value="androidx.startup" />
+172-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+173        </provider>
+174        <provider
+174-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+175            android:name="com.squareup.picasso.PicassoProvider"
+175-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+176            android:authorities="com.example.babybuy.com.squareup.picasso"
+176-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+177            android:exported="false" />
+177-->[com.squareup.picasso:picasso:2.71828] C:\Users\A S U S\Desktop\Kotlin Project\caches\transforms-3\59a3702f1bf6bc5215daf50df9511a89\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+178    </application>
+179
+180</manifest>

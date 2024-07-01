@@ -30,11 +30,11 @@ com.example.babybuy.app-jetified-startup-runtime-1.1.1-28 C:\Users\A S U S\.grad
 com.example.babybuy.app-jetified-play-services-base-18.1.0-29 C:\Users\A S U S\.gradle\caches\transforms-3\e8a665c2b1626d4307fde3f9e50936bf\transformed\jetified-play-services-base-18.1.0\res
 com.example.babybuy.app-cardview-1.0.0-30 C:\Users\A S U S\.gradle\caches\transforms-3\fa3659a04c6e45d556b5f8662112b28b\transformed\cardview-1.0.0\res
 com.example.babybuy.app-coordinatorlayout-1.1.0-31 C:\Users\A S U S\.gradle\caches\transforms-3\fe0fd5ae30eba395a4c7b39f593407e5\transformed\coordinatorlayout-1.1.0\res
-com.example.babybuy.app-pngs-32 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\build\generated\res\pngs\debug
-com.example.babybuy.app-resValues-33 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\build\generated\res\resValues\debug
-com.example.babybuy.app-rs-34 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\build\generated\res\rs\debug
-com.example.babybuy.app-packageDebugResources-35 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.babybuy.app-packageDebugResources-36 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.babybuy.app-merged_res-37 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\build\intermediates\merged_res\debug
-com.example.babybuy.app-debug-38 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\debug\res
-com.example.babybuy.app-main-39 C:\Users\A S U S\OneDrive\Desktop\New folder\babybuy\app\src\main\res
+com.example.babybuy.app-pngs-32 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\build\generated\res\pngs\debug
+com.example.babybuy.app-resValues-33 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\build\generated\res\resValues\debug
+com.example.babybuy.app-rs-34 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\build\generated\res\rs\debug
+com.example.babybuy.app-packageDebugResources-35 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.babybuy.app-packageDebugResources-36 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.babybuy.app-merged_res-37 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\build\intermediates\merged_res\debug
+com.example.babybuy.app-debug-38 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\debug\res
+com.example.babybuy.app-main-39 C:\Users\A S U S\OneDrive\Desktop\final\Andriod_Babybuy\app\src\main\res

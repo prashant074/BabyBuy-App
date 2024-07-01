@@ -4,7 +4,7 @@
             "outputFile": "com.example.babybuy.app-mergeDebugResources-35:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\A S U S\\OneDrive\\Desktop\\New folder\\babybuy\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\A S U S\\OneDrive\\Desktop\\final\\Andriod_Babybuy\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\A S U S\\OneDrive\\Desktop\\New folder\\babybuy\\app\\src\\main\\res\\values-night\\ids.xml",
+                    "source": "C:\\Users\\A S U S\\OneDrive\\Desktop\\final\\Andriod_Babybuy\\app\\src\\main\\res\\values-night\\ids.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1053,7 +1053,6 @@ id roundCardView
 id rsingup
 id sbackimgf
 id sdescription
-id slocation
 id smobile
 id sms
 id sprice
