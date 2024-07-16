@@ -4,7 +4,7 @@
             "outputFile": "com.example.babybuy.app-mergeDebugResources-35:/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\A S U S\\Desktop\\Kotlin Project\\caches\\transforms-3\\6399666df63bb8aff7a750bb298130c3\\transformed\\jetified-filepicker-2.2.5\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\A S U S\\.gradle\\caches\\transforms-3\\6399666df63bb8aff7a750bb298130c3\\transformed\\jetified-filepicker-2.2.5\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
